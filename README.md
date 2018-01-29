@@ -1,4 +1,4 @@
-# OS Assignment 0
+# CShell
 
 #### Working of the shell
 The way this shell works is that we have a while True loop which is the main loop for our shell. Inside that first the input is parsed using strtok using space as delimiter, then depending on the command which user typed in and based on that the respective command will be called. Depending on the input the commands can be:
@@ -143,8 +143,3 @@ Redirection also works. You can use >, <, >> to write/read/append to a file. Exa
 1. The commandsCode folder should be present in the same directory and should contain all the commands .c and executable files.
 1. For commands like `cat` and others the flags should be before the fileName or else it won't work.
 1. Multiple command line arguments together in the same line won't work.
-
-
-## Name: Anubhav Chaudhary
-
-## Roll No: 2016013
