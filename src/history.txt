@@ -1,0 +1,21 @@
+date
+date -u
+date -R
+make
+exit
+date
+date -u
+date -R
+make
+exit
+date
+date -u
+date -R
+make
+exit
+cat myshell.c
+cat -E myshell.c
+cat -E cat.c
+cat -E myshell.c
+cat -E cat.c
+exit
